@@ -1,0 +1,50 @@
+
+.container {
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+td {
+	height: 120px;
+	width: 120px;
+	border: 1px solid black;
+	border-radius: 25px;
+	text-align: center;
+	font-size: 30px;
+}
+.score1 {
+	background: #ffffff;
+}
+.score2 {
+	background: #e5f2e5;
+}
+.score4 {
+	background: #cce5cc;
+}
+.score8 {
+	background: #b2d8b2;
+}
+.score16 {
+	background: #99cc99;
+}
+.score32 {
+	background: #7fbf7f;
+}
+.score64 {
+	background: #66b266;
+}
+.score128 {
+	background: #4ca64c;
+}
+.score256 {
+	background: #329932;
+}
+.score512 {
+	background: #198c19;
+}
+.score1024 {
+	background: #008000;
+}
+.score2048 {
+	background: #007300;
+}
